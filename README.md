@@ -1,2 +1,4 @@
 # -Customer-Analysis-Report
  Customer Analysis Report Customer Analysis Report I worked on an end-to-end SQL data analysis project for a bicycle company. The project involved three datasets: Sales, Customers, and Product.
+
+I began with Exploratory Data Analysis (EDA) to understand the data. This included data exploration, dimension exploration, and measure exploration. I analyzed magnitude and ranking to uncover sales patterns and customer behavior. For advanced analysis, I studied changes over time to identify trends. I performed cumulative analysis to evaluate long-term performance. A performance analysis was conducted to measure sales efficiency. I applied part-to-whole and segmentation analysis to understand contributions and customer groups. Finally, I prepared reports and insights to support decision-making for the bicycle store.
