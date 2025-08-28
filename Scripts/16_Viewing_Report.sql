@@ -1,0 +1,1 @@
+Select * from gold.report_customers
